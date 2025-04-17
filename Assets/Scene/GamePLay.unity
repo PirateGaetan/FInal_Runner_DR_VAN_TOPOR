@@ -346,7 +346,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 0.36078432}
+  m_Color: {r: 1, g: 1, b: 1, a: 0}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -667,8 +667,8 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 369274551}
   m_LocalRotation: {x: -0.06101361, y: 0.0023448076, z: 0.70446956, w: 0.7071029}
-  m_LocalPosition: {x: 0, y: 0, z: 12}
-  m_LocalScale: {x: 0.3395167, y: 0.19153754, z: 1}
+  m_LocalPosition: {x: 0, y: 0, z: -6}
+  m_LocalScale: {x: 0.15, y: 0.15, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 986158570}
@@ -677,8 +677,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: -5.14, y: -4.76, z: 90}
   m_AnchorMin: {x: 1, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -85.9, y: 385.9}
-  m_SizeDelta: {x: 362, y: -668.5}
+  m_AnchoredPosition: {x: -86, y: 380}
+  m_SizeDelta: {x: 794, y: -522}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &369274553
 MonoBehaviour:
@@ -1390,7 +1390,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 0.36078432}
+  m_Color: {r: 1, g: 1, b: 1, a: 0}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -1465,7 +1465,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 0.36078432}
+  m_Color: {r: 1, g: 1, b: 1, a: 0}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -2663,7 +2663,7 @@ RectTransform:
   m_GameObject: {fileID: 1413659403}
   m_LocalRotation: {x: -0.06101361, y: 0.0023448076, z: 0.70446956, w: 0.7071029}
   m_LocalPosition: {x: 0, y: 0, z: 8}
-  m_LocalScale: {x: 0.15206762, y: 0.17010377, z: 1}
+  m_LocalScale: {x: 0.15, y: 0.15, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 920382982}
@@ -2672,7 +2672,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: -5.14, y: -4.76, z: 90}
   m_AnchorMin: {x: 1, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -166, y: 384.84998}
+  m_AnchoredPosition: {x: -166, y: 380}
   m_SizeDelta: {x: 794, y: -522}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1413659406
@@ -3789,7 +3789,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 0.36078432}
+  m_Color: {r: 1, g: 1, b: 1, a: 0}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -3936,8 +3936,8 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2111932799}
   m_LocalRotation: {x: -0.06101361, y: 0.0023448076, z: 0.70446956, w: 0.7071029}
-  m_LocalPosition: {x: 0, y: 0, z: -3.5999985}
-  m_LocalScale: {x: 0.15206762, y: 0.17010377, z: 1}
+  m_LocalPosition: {x: 0, y: 0, z: -6}
+  m_LocalScale: {x: 0.15, y: 0.15, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 198558625}
@@ -3946,7 +3946,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: -5.14, y: -4.76, z: 90}
   m_AnchorMin: {x: 1, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -304.99, y: 384.84998}
+  m_AnchoredPosition: {x: -330, y: 380}
   m_SizeDelta: {x: 794, y: -522}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!4 &2141122904 stripped
@@ -4045,8 +4045,8 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2144678477}
   m_LocalRotation: {x: -0.06101361, y: 0.0023448076, z: 0.70446956, w: 0.7071029}
-  m_LocalPosition: {x: 0, y: 0, z: 2.4000015}
-  m_LocalScale: {x: 0.15206762, y: 0.17010377, z: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 2}
+  m_LocalScale: {x: 0.15, y: 0.15, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 2068272452}
@@ -4055,7 +4055,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: -5.14, y: -4.76, z: 90}
   m_AnchorMin: {x: 1, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -236.98999, y: 384.84998}
+  m_AnchoredPosition: {x: -247, y: 380}
   m_SizeDelta: {x: 794, y: -522}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1660057539 &9223372036854775807
